@@ -7,7 +7,7 @@
 
 ## Code and Resources Used
 
-**Python Version:** 3.7
+**Anaconda:**  
 
 **Packages:** pandas, numpy, seaborn, sklearn, matplotlib, datetime, scipy
 
