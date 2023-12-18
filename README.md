@@ -5,14 +5,6 @@
 
 ---
 
-## Code and Resources Used
-
-**Anaconda:**  
-
-**Packages:** pandas, numpy, seaborn, sklearn, matplotlib, datetime, scipy
-
----
-
 ### Task 1 - Data preparation and Customer Analytics
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
