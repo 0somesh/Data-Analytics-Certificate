@@ -3,8 +3,6 @@
 - This is program consists of 3 tasks 
 - All these code files were my personal submissions for this program. Except the data files which were assigned by Quantium.
 
----
-
 ### Task 1 - Data preparation and Customer Analytics
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
