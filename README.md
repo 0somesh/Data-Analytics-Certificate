@@ -1,6 +1,6 @@
 # Quantium Virtual Experience Program in Data Analytics
 
-- This is program consists of 3 tasks 
+- This is program consists of 3 tasks.
 - All these code files were my personal submissions for this program. Except the data files which were assigned by Quantium.
 
 ### Task 1 - Data preparation and Customer Analytics
