@@ -133,9 +133,7 @@ Feb, March and April trial months for trial store 86
 3. Trial store 88: Control store 40
 4. Both trial store 77 and 86 showed significant increase in Total Sales and Number of Customers during trial period. But not for trial store 88. Perhaps the client knows if there's anything about trial 88 that differs it from the other two trial.
 5. Overall the trial showed positive significant result.
-
 ----
-
 ### Task 3 - Analytics and Commercial Application
 - Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
 
